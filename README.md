@@ -17,6 +17,6 @@ Teraz strona powinna działać pod adresem http://localhost/
 - bibliotekę jQuery - Licencja MIT, https://jquery.org/license/
 - czcionki Fontello - Licencja SIL, w katalogu WWW/fontello/LICENSE.txt
 
-# Domyślny użytkownik
+## Domyślny użytkownik
 Login: Kafelkowo
 Hasło: Qwerty123
