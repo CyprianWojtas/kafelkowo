@@ -1,0 +1,5 @@
+RewriteEngine on
+
+RewriteRule ^zaloguj/ /podstrony/logowanie.php
+RewriteRule ^wyloguj/ /php/wyloguj.php
+RewriteRule ^bb-code/ /podstrony/bb-code.php
